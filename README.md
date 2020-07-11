@@ -1,8 +1,7 @@
 ### Hi there, Mujtaba here 👋 [![HitCount](http://hits.dwyl.com/mujjazi/https://githubcom/mujjazi/mujjazi/.svg)](http://hits.dwyl.com/mujjazi/https://githubcom/mujjazi/mujjazi/)
 
 
-<!--
-**mujjazi/mujjazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on Cypress for Web Automation and GitHub Actions for CI/CD
 - 🌱 I’m currently learning GitHub Devops using GitHub Learning Lab
@@ -15,4 +14,4 @@
 Feel free to reach out:
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png)](https://www.linkedin.com/in/mujtabamehdi9) 
--->
+
