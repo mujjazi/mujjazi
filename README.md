@@ -11,6 +11,8 @@
 - 📫 How to reach me: 13besemmehdi@seecs.edu.pk
 - ⚡ Fun fact: I am a sports lover and love to play Football and Table Tennis in my free time
 
+![Mujtaba's github stats](https://github-readme-stats.vercel.app/api?username=mujjazi&show_icons=true)
+
 Feel free to reach out:
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png)](https://www.linkedin.com/in/mujtabamehdi9) 
