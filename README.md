@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Cypress for Web Automation and GitHub Actions for CI/CD
 - 🌱 I’m currently learning GitHub Devops using GitHub Learning Lab
 - 👯 I’m looking to collaborate on Web and Mobile automation projects
-- 🤔 I’m looking for help with DevOps and Jenkins and Azure
+- 🤔 I’m looking for help with DevOps while exploring AWS and Azure Cloud
 - 💬 Ask me about Automation, Developing Frameworks for test automation, Quality Assurance and Software Testing 
 - 📫 How to reach me: 13besemmehdi@seecs.edu.pk
 - ⚡ Fun fact: I am a sports lover and love to play Football and Table Tennis in my free time
