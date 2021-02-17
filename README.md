@@ -15,5 +15,5 @@
 
 Feel free to reach out:
 
-&nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://github.com/mujjazi/mujjazi/blob/master/link.png)](https://www.linkedin.com/in/mujtabamehdi9) 
+&nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://github.com/mujjazi/mujjazi/blob/master/link.ico)](https://www.linkedin.com/in/mujtabamehdi9) 
 
