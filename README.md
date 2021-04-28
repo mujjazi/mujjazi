@@ -1,5 +1,4 @@
-# Hi there, Mujtaba here 👋 [![HitCount](http://hits.dwyl.com/mujjazi/https://githubcom/mujjazi/mujjazi/.svg)](http://hits.dwyl.com/mujjazi/https://githubcom/mujjazi/mujjazi/)
-
+# Hi there, Mujtaba here 👋 
 
 
 
