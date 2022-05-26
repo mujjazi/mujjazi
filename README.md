@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Cypress for Web Automation and GitHub Actions for CI/CD
+- 🔭 I’m currently working on understanding the quality engineering prinicples and how to improve release times without compromising on quality
 - 🌱 I’m currently learning about Open Telemetry, Open Tracing and Observability
 - 👯 I’m looking to collaborate on Quality Assurance, Automation and Cloud Computing projects
 - 🤔 I’m looking for help with new research topics in Cloud and Distributed computing specifically around Green Network and Computing systems for a greener future
