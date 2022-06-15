@@ -1,17 +1,18 @@
 ![](./images/header.png)
 
-# Hi there, Mujtaba here 👋 
+
+
+# Hi there, Welcome to Mujtaba's profile 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mujjazi.mujjazi&left_color=blue&right_color=blue)
 
 <br>
 
 
-- 🔭 I’m currently working on understanding the quality engineering priniciples and how to release faster without compromising on quality
-- 🌱 I’m currently learning about Open Telemetry, Open Tracing and Observability
-- 👯 I’m looking to collaborate on Quality Assurance, Automation and Cloud Computing projects
-- 🤔 I’m looking for help with new research topics in Cloud and Distributed computing specifically around Green Network and Computing systems for a greener future
-- 💬 Ask me about Automation, Developing Frameworks for test automation, Quality Assurance and Software Testing 
+- 🔭 I’m currently working as quality coach and advocating teams on how to improve the overall process for testing and development of quality products
+- 🌱 I’m currently learning about linux, Kubernetes, Docker and new monitoring tools and technologies
+- 👯 I’m looking to collaborate on testing, automation and technical content projects
+- 💬 Ask me about automation, developing frameworks for test automation or maintaining existing ones, quality coaching and devops
 - 📫 How to reach me: mujtabamehdi71084@gmail.com
-- ⚡ Fun fact: I am a sports lover and love to play Football and Table Tennis in my free time
+- ⚡ Fun fact: I am a traveler, sports lover and love to play Football and Table Tennis in my free time
 
 ![Mujtaba's github stats](https://github-readme-stats.vercel.app/api?username=mujjazi&show_icons=true)
 
