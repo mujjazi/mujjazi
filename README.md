@@ -1,5 +1,8 @@
+![](./images/header.png)
+
 # Hi there, Mujtaba here 👋 
 
+<br>
 
 
 - 🔭 I’m currently working on understanding the quality engineering priniciples and how to release faster without compromising on quality
