@@ -15,6 +15,7 @@
 - ⚡ Fun fact: I am a traveler, sports lover and love to play Football and Table Tennis in my free time
 
 ![Mujtaba's github stats](https://github-readme-stats.vercel.app/api?username=mujjazi&show_icons=true)
+![Mujtaba's favourite languages](https://github-readme-stats.vercel.app/api?username=mujjazi&show_icons=true&theme=graywhite)
 
 Feel free to reach out:
 
