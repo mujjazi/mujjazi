@@ -14,6 +14,8 @@
 - 📫 How to reach me: mujtabamehdi71084@gmail.com
 - ⚡ Fun fact: I am a traveler, sports lover and love to play Football and Table Tennis in my free time
 
+![My Contributions](./profile-3d-contrib/profile-green-animate.svg)
+<br>
 ![Mujtaba's favourite languages](https://github-readme-stats.vercel.app/api?username=mujjazi&layout=compact&show_icons=true)
 <br>
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujjazi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
