@@ -17,7 +17,7 @@
 ![My Contributions](./profile-3d-contrib/profile-green-animate.svg)
 <br>
 
-<b>Feel free to connect with me on LinkedIn to discuss test automation or quality coaching" or If you have any questions about automation frameworks or DevOps practices, don't hesitate to email me</b>
+<b>Feel free to connect with me on LinkedIn to discuss test automation or quality coaching or If you have any questions about automation frameworks or DevOps practices, don't hesitate to email me</b>
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://github.com/mujjazi/mujjazi/blob/master/link.ico)](https://www.linkedin.com/in/mujtabamehdi9) 
 
