@@ -2,7 +2,7 @@
 
 ## Quality Coach and Test Automation 
 
-# Hi there, Welcome to Mujtaba's profile 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mujjazi.mujjazi&left_color=blue&right_color=blue)
+# Hi there, Welcome to Mujtaba's profile 👋
 
 <br>
 
