@@ -11,7 +11,7 @@
 - 🌱 I'm learning about developing scalable automation frameworks to improve confidence with automated deployments
 - 👯 I'm interested in collaborating on open source automation frameworks
 - 💬 Ask me about automation, developing frameworks for test automation and testing
-- 📫 How to reach me: mujtabamehdi71084@gmail.com
+- 📫 How to reach me: You can contact via Linkedin link at the end of this page
 - ⚡ Fun fact: I am a traveler, sports lover and love to meet new people
 
 ![My Contributions](./profile-3d-contrib/profile-green-animate.svg)
