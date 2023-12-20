@@ -14,7 +14,6 @@
 - 📫 How to reach me: You can contact via Linkedin link at the end of this page
 - ⚡ Fun fact: I am a traveler, sports lover and love to meet new people
 
-![My Contributions](./profile-3d-contrib/profile-green-animate.svg)
 <br>
 
 <b>Feel free to connect with me on LinkedIn to discuss test automation or quality coaching or If you have any questions about web or mobile automation frameworks and libraries (Selenium WebDriver, Cypress, Nightwatch.js and Appium), don't hesitate to message me on LinkedIn</b>
