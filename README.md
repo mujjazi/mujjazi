@@ -1,13 +1,13 @@
 ![](./images/header.png)
 
-## Quality Coach and Test Automation 
+## Test Engineering and Automation 
 
 # Hi there, Welcome to Mujtaba's profile 👋
 
 <br>
 
 
-- 🔭 I’m currently working as quality coach and advocating teams on how to improve the overall process for testing and development of quality products
+- 🔭 I’m currently working as a test engineer and advocating teams on how to improve the overall process for testing and development of quality products
 - 🌱 I'm learning about developing scalable automation frameworks to improve confidence with automated deployments
 - 👯 I'm interested in collaborating on open source automation frameworks
 - 💬 Ask me about automation, developing frameworks for test automation and testing
